@@ -34,7 +34,7 @@ public class HelloWorldController implements EnvironmentAware {
     */
     @RequestMapping(path="test")
     public String test() {
-        logger.info("处理中。 。。   。。      。");
+        logger.info("处理中。 。 。   。。      。");
         System.out.println("good job!!!!");
         return "helloWorld";
     }
