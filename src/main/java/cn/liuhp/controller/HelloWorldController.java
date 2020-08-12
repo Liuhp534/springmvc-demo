@@ -1,4 +1,4 @@
-package cn.liu.hui.peng.controller;
+package cn.liuhp.controller;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
